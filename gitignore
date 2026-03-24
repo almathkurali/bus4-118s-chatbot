@@ -1,0 +1,10 @@
+# Secret config — NEVER commit API keys
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+venv/
+.venv/
